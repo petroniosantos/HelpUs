@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
 
   termoUso: {
     color: 'blue',
-    marginTop: 25,
+    marginTop: 26,
     textAlign: 'center',
     fontSize: 12,
   },
