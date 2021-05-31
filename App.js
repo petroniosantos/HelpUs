@@ -8,7 +8,7 @@ import { TextInput } from 'react-native';
 import { Button } from 'react-native';
 
 export default function App() {
-
+'testestetstetstets'
   return (
       <View style={styles.screen}>
 
